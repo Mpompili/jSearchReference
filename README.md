@@ -224,14 +224,14 @@
 * [BFS 2](http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/)
 * [Dijkstra's Algorithm](https://www.youtube.com/watch?v=lAXZGERcDf4)
 * [Dijsktra Code & Reading](http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/)
-* 
+
 ## Web
 * [What happens when you type an URL in the browser and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
 * [TCP](https://www.youtube.com/watch?v=PpsEaqJV_A0)
 * [Packet, routers, and reliability](https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-packet-routers-and-reliability)
 * [The Domain Name System (DNS)](https://medium.freecodecamp.org/the-domain-name-system-dns-is-the-backbone-of-the-internet-heres-how-it-all-works-5706d0afa0fa)
 * [TCP vs UDP](https://www.youtube.com/watch?v=Vdc8TCESIg8&t)
-* 
+
 ## JavaScript
 * [JavaScript Prototypes](https://javascript.info/function-prototype)
 * [Benefits of HTML5](https://tympanus.net/codrops/2011/11/24/top-10-reasons-to-use-html5-right-now/) 
@@ -241,7 +241,7 @@
 * [JS == vs. ===](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
 * [JS this](https://javascript.info/object-methods)
 * [IIFE](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
-* 
+
 ## Misc
 * [React Lifecycle Methods](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
 * [React Review](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
@@ -378,7 +378,7 @@
 * [Promise API](https://javascript.info/promise-api)
 * [Async/Await](https://javascript.info/async-await)
 * [Partials and Currying](https://javascript.info/currying-partials)
-* 
+
 ## Misc
 * [Intro to Enhancing Your Website](https://www.crazyegg.com/blog/speed-up-your-website/)
 * [Enhance website by optimizing html, css, JS](https://browserdiet.com/)
