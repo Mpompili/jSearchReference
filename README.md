@@ -1,21 +1,26 @@
 ## Job Search Study Materials
 
 ### No Repeats
-### Hope this is helpful :] 
+### Hope this is helpful  
+---
 
 [All Algorithms](#All-Algorithms)
+
 [All Web](#All-Web)
+
 [All JavaScript](#All-JavaScript)
+
 [All Misc](#All-Misc)
 
-[Week 1](#Week-1)
-[Week 2](#Week-2)
-[Week 3](#Week-3)
-[Week 4](#Week-4)
-[Week 5](#Week-5)
-[Week 6](#Week-6)
-[Week 7](#Week-7)
-[Week 8](#Week-8)
+---
+* [Week 1](#Week-1)
+* [Week 2](#Week-2)
+* [Week 3](#Week-3)
+* [Week 4](#Week-4)
+* [Week 5](#Week-5)
+* [Week 6](#Week-6)
+* [Week 7](#Week-7)
+* [Week 8](#Week-8)
 
 ---
 
