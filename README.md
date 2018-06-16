@@ -4,13 +4,10 @@
 ### Hope this is helpful  
 ---
 
-[All Algorithms](#All-Algorithms)
-
-[All Web](#All-Web)
-
-[All JavaScript](#All-JavaScript)
-
-[All Misc](#All-Misc)
+* [All Algorithms](#All-Algorithms)
+* [All Web](#All-Web)
+* [All JavaScript](#All-JavaScript)
+* [All Misc](#All-Misc)
 
 ---
 * [Week 1](#Week-1)
@@ -478,30 +475,3 @@
 * [Ruby Objects: Variable References and Mutability](https://launchschool.com/blog/references-and-mutability-in-ruby)
 * [Ruby: Pass by Reference vs. Value](https://launchschool.com/blog/object-passing-in-ruby)
 * [Ruby: modules, classes, and objects](https://learnrubythehardway.org/book/ex40.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
