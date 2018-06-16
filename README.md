@@ -84,7 +84,7 @@
 * [Insert node in LL](https://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/)
 * [Delete Node](https://www.geeksforgeeks.org/delete-a-given-node-in-linked-list-under-given-constraints/)
 * [Compare 2 strings](https://www.geeksforgeeks.org/compare-two-strings-represented-as-linked-lists/)
-* [Sum of 2 LL](https://www.geeksforgeeks.org/sum-of-two-linked-lists/)
+* [Sum of 2 LinkedLists](https://www.geeksforgeeks.org/sum-of-two-linked-lists/)
 * [Merge LinkedList](https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/)
 * [Union and Intersection](https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)
 * [Reverse List](https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/)
