@@ -1,6 +1,7 @@
 ## Job Search Study Materials
 
-###  Hope this is useful 
+### No Repeats
+### Hope this is helpful :] 
 
 [All Algorithms](#All-Algorithms)
 [All Web](#All-Web)
