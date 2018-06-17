@@ -4,10 +4,10 @@
 ### Hope this is helpful  
 ---
 
-* [All Algorithms](#all-Algorithms)
+* [All Algorithms](#all-algorithms)
 * [All Web](#all-web)
 * [All JavaScript](#all-javascript)
-* [All Misc](#all-isc)
+* [All Misc](#all-misc)
 
 ---
 * [Week 1](#week-1)
