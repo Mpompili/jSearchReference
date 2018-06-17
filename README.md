@@ -4,20 +4,20 @@
 ### Hope this is helpful  
 ---
 
-[All Algorithms](#All-Algorithms)
-* [All Web](#All-Web)
-* [All JavaScript](#All-JavaScript)
-* [All Misc](#All-Misc)
+* [All Algorithms](#all-Algorithms)
+* [All Web](#all-web)
+* [All JavaScript](#all-javascript)
+* [All Misc](#all-isc)
 
 ---
-* [Week 1](#Week-1)
-* [Week 2](#Week-2)
-* [Week 3](#Week-3)
-* [Week 4](#Week-4)
-* [Week 5](#Week-5)
-* [Week 6](#Week-6)
-* [Week 7](#Week-7)
-* [Week 8](#Week-8)
+* [Week 1](#week-1)
+* [Week 2](#week-2)
+* [Week 3](#week-3)
+* [Week 4](#week-4)
+* [Week 5](#week-5)
+* [Week 6](#week-6)
+* [Week 7](#week-7)
+* [Week 8](#week-8)
 
 ---
 
