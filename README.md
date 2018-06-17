@@ -4,7 +4,7 @@
 ### Hope this is helpful  
 ---
 
-* [All Algorithms](#All-Algorithms)
+[All Algorithms](#All-Algorithms)
 * [All Web](#All-Web)
 * [All JavaScript](#All-JavaScript)
 * [All Misc](#All-Misc)
